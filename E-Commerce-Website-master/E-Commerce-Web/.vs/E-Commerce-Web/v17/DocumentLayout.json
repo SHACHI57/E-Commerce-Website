@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\E-Commerce-Website-master\\E-Commerce-Website-master\\E-Commerce-Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A5574D-1441-4254-9042-0ABF957489A9}|PMApp\\PMApp.csproj|c:\\users\\lenovo\\desktop\\e-commerce-website-master\\e-commerce-website-master\\e-commerce-web\\pmapp\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3A5574D-1441-4254-9042-0ABF957489A9}|PMApp\\PMApp.csproj|solutionrelative:pmapp\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A5574D-1441-4254-9042-0ABF957489A9}|PMApp\\PMApp.csproj|c:\\users\\lenovo\\desktop\\e-commerce-website-master\\e-commerce-website-master\\e-commerce-web\\pmapp\\views\\registration\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3A5574D-1441-4254-9042-0ABF957489A9}|PMApp\\PMApp.csproj|solutionrelative:pmapp\\views\\registration\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\E-Commerce-Website-master\\E-Commerce-Website-master\\E-Commerce-Web\\PMApp\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "PMApp\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\E-Commerce-Website-master\\E-Commerce-Website-master\\E-Commerce-Web\\PMApp\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "PMApp\\Views\\Login\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T16:47:13.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\E-Commerce-Website-master\\E-Commerce-Website-master\\E-Commerce-Web\\PMApp\\Views\\Registration\\Index.cshtml",
+              "RelativeDocumentMoniker": "PMApp\\Views\\Registration\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\E-Commerce-Website-master\\E-Commerce-Website-master\\E-Commerce-Web\\PMApp\\Views\\Registration\\Index.cshtml",
+              "RelativeToolTip": "PMApp\\Views\\Registration\\Index.cshtml",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAABwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T16:30:23.484Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
